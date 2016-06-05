@@ -29,3 +29,13 @@ print lst
             # lst.append(element)    # append     
 # lst.sort()                         # sort the list (de-indent indicates that you sort when the loop ends)
 # print lst   
+
+#def squareroot(n):
+#    root = n/2    #initial guess will be 1/2 of n
+#    for k in range(20):
+#        root = (1/2)*(root + (n / root))
+ 
+#     return root
+ 
+ 
+ 
